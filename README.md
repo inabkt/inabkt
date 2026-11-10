@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**inabkt/inabkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Привет, я Амина 👋
+✨ Амина | Developer in Progress 🚀
+"Превращаю git init в крутые проекты" 💻✨
+🎨 Обо мне
+👋 Привет! Я Амина, начинающий разработчик. 
+Изучаю программирование, верстку и контроль версий. 
+Люблю, когда всё сделано красиво и четко — от чистого кода без багов до стильного дизайна.
+Верю, что чувство эстетики помогает создавать лучшие интерфейсы! 💅✨
+🛠 Мой стек и инструменты🌐 Frontend: HTML5, CSS3 🎨⚙️ Tools: Git, GitHub, VS Code 🛠️🎯
+В процессе: Изучение алгоритмов и прокачка навыков 📚🌟
+Интересные факты⚡
+Стиль во всем: Замечаю детали не только в коде, но и в жизни (обожаю визуальную эстетику и карамельные оттенки балаяжа 💇‍♀️✨)💚
+Главная цель: Закрасить весь календарь GitHub сочными зелеными квадратами коммитов!
